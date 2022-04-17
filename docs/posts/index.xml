@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cristiandena91.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://cristiandena91.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristiandena91.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola! :D
+Quiero contarte un poco sobre los temas que he aprendido al ser parte de este gran equipo
+-Realice algunos ejercicios en programacion con Python, mis conocimientos eran minimos. Gracias a mi mission commander pude adquirir nuevos conocimientos y ponerlos en practica. -Estoy mejorando mis capacidades logicas sobre la programacion. -Instale Jupyter Notebook -He aprendido a utilizar mas GitHub y Git. -Volvi a repasar mis conocimientos con HTML5, CSS3 y JS -Ahora se como utilizar API&amp;rsquo;s -Realice un pokedex con API -Aprendi un poco sobre como funcionan los frameworks de JS como Vue y Vuex -Actualmente espero aprender sobre nodejs con mi mission commander Carlogilmar.</description>
+    </item>
+    
+    <item>
       <title>La cultura de un Desarrolador de software</title>
       <link>https://cristiandena91.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
